@@ -108,7 +108,7 @@ const Hero = () => {
                 src = "/videos/output.mp4"
                 muted
                 preload="auto"
-                loop/>
+                />
             </div>
         </>
     )
